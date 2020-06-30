@@ -1,0 +1,4 @@
+# Referenced at E:\android_projects\flutter_app\build\app\intermediates\merged_manıfests\debug\AndroidManifest.xml:32
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at E:\android_projects\flutter_app\build\app\intermediates\merged_manıfests\debug\AndroidManifest.xml:32
+-keep class io.flutter.app.FlutterApplication { <init>(); }
